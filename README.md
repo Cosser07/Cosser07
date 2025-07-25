@@ -10,7 +10,7 @@ I'm passionate about learning full-stack development.
 
 * 🌍  I'm based in Phitsanulok
 * ✉️  You can contact me at [sajjaphxt11391@gmail.com](mailto:sajjaphxt11391@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Python and Robot Framework.
 
 ### Skills
 
